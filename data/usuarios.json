@@ -1,0 +1,22 @@
+[
+    {
+        "tittle": "Xiaomi Note",
+        "price" : 500,
+        "thumbnail" : "Xiaomi Oficial.com",
+        "id" : 1
+    },
+    {
+        "tittle": "Motorola",
+        "price" : 300,
+        "thumbnail" : "Motorola Oficial.com",
+        "id" : 2
+    },
+    {
+        "tittle": "Iphone",
+        "price" : 700,
+        "thumbnail" : "Iphone Oficial.com",
+        "id" : 3
+
+    }
+
+]
